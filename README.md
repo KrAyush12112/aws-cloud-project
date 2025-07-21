@@ -1,7 +1,7 @@
 # aws-cloud-project
 # AWS Cloud Project 🚀
 
-This repository contains a complete hands-on AWS project broken into 11 modules, each demonstrating different services of AWS.
+This repository contains a set of 12 practical AWS training modules, each covering a specific service or concept in cloud computing. The modules are saved in PDF format and include real AWS Console implementations, screenshots, and step-by-step guidance.
 
 ## 📁 Modules Overview
 
@@ -17,7 +17,8 @@ This repository contains a complete hands-on AWS project broken into 11 modules,
 - ✅ Module 10: Simple Queue Service (SQS) with Lambda
 - ✅ Module 11: IAM Roles
 
-Each module contains step-by-step documentation along with screenshots.
+### 📎 Format
+All modules are documented in PDF format with screenshots and relevant AWS commands.
 
 ## 💼 About Me
 
