@@ -1,16 +1,11 @@
-          Project Introduction: Launching a Windows EC2 
-Instance on AWS 
-This project demonstrates the complete process of launching a Windows-based EC2 (Elastic 
-Compute Cloud) instance using Amazon Web Services (AWS).  
-The aim is to provide a step-by-step walkthrough—from logging into the AWS Console to successfully 
-connecting with the Windows server using Remote Desktop Protocol (RDP). 
-EC2 Instance (Windows): 
-EC2 allows users to run virtual servers in the cloud with flexible compute capacity (Virtual Storage, 
-CPU), making it ideal for hosting applications, websites, and remote environments.  
-In this project, we specifically focus on creating and configuring a Windows Server EC2 instance, 
-which can later be used for a wide range of purposes like software testing, application hosting, file 
-sharing, and more. 
-EC2 Instance (Windows): 
+# Project Introduction: Launching a Windows EC2 
+# Instance on AWS 
+This project demonstrates the complete process of launching a Windows-based EC2 (Elastic Compute Cloud) instance using Amazon Web Services (AWS).  
+The aim is to provide a step-by-step walkthrough—from logging into the AWS Console to successfully connecting with the Windows server using Remote Desktop Protocol (RDP). 
+## EC2 Instance (Windows): 
+EC2 allows users to run virtual servers in the cloud with flexible compute capacity (Virtual Storage, CPU), making it ideal for hosting applications, websites, and remote environments.  
+In this project, we specifically focus on creating and configuring a Windows Server EC2 instance, which can later be used for a wide range of purposes like software testing, application hosting, file sharing, and more. 
+# EC2 Instance (Windows): 
 Once your Windows EC2 instance is launched and connected, you can use it for many real-world 
 tasks, such as: 
      1. Host a Website or Web Application 
