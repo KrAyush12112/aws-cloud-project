@@ -104,9 +104,9 @@ To avoid charges:
 ## 📷 Screenshots
 
 > Include screenshots
-![EC2 Dashboard](/Screenshot/Picture1.png)
+![EC2 Dashboard](Screenshot/Picture1.png)
 
-![Running instance](/Screenshot/Picture2.png)
+![Running instance](Screenshot/Picture2.png)
 
 ![Final](Screenshot/final.png)
 
