@@ -6,16 +6,18 @@ This repository contains a set of 12 practical AWS training modules, each coveri
 ## 📁 Modules Overview
 
 - ✅ Module 1: Launch EC2 Windows Instance
-- ✅ Module 2: Launch EC2 Linux Instance
-- ✅ Module 3: Host Website on Windows
-- ✅ Module 4: Host Website on Linux
-- ✅ Module 5: AMI Creation
+- ✅ Module 2: Host Website on Windows
+- ✅ Module 3: AMI Creation
+- ✅ Module 4,5: Host Website on Linux
 - ✅ Module 6: EBS Volume & Snapshot
 - ✅ Module 7: Auto Scaling (Windows)
 - ✅ Module 8: Load Balancer (Windows)
 - ✅ Module 9: Simple Notification Service (SNS)
-- ✅ Module 10: Simple Queue Service (SQS) with Lambda
-- ✅ Module 11: IAM Roles
+- ✅ Module 10: IAM Roles
+- ✅ Module 11: Simple Queue Service (SQS) with Lambda
+- ✅ Module 12: Virtual private cloud(VPC)
+- ✅ Module 13: DynamoDB
+
 
 ### 📎 Format
 All modules are documented in PDF format with screenshots and relevant AWS commands.
