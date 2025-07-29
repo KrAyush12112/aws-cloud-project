@@ -105,7 +105,9 @@ To avoid charges:
 
 > Include screenshots
 ![EC2 Dashboard](Module 1 - Launch EC2 Windows/Screenshot/Picture1.png)
+
 ![Running instance](Module 1 - Launch EC2 Windows/Screenshot/Picture2.png)
+
 ![Final](Module 1 - Launch EC2 Windows/Screenshot/final.png)
 
 
